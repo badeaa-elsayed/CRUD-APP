@@ -1,0 +1,27 @@
+:root{
+    --main-bg:#ccc;
+}
+
+body{
+    font-family: 'Segoe UI light';
+    font-weight: 600;
+}
+.bg-gray{
+    background-color: var(--main-bg);
+}
+
+textarea{
+    resize: none;
+}
+
+h1{
+   font-weight: 900;
+    
+}
+
+p{
+    border: 2px solid red;
+    padding: 0 10px;
+    font-weight: bolder;
+    
+}
